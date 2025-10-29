@@ -1,7 +1,5 @@
 # Tableau Public Learning with Project 
 
-# 📊 Tableau Public Projects
-
 This repository contains my Tableau works — including basics, joins, and analytical projects created during my learning and exploration of data visualization.
 
 ## 📁 Structure
@@ -19,9 +17,5 @@ This repository contains my Tableau works — including basics, joins, and analy
 - Tableau Public  
 - Excel / CSV datasets  
 
-## 🔗 Tableau Profile
-[View My Tableau Public Profile](#) <!-- Replace # with your Tableau Public link -->
-
----
 
 *This repository reflects my journey of building analytical thinking and visualization skills through Tableau.*
