@@ -18,4 +18,4 @@ This repository contains my Tableau works — including basics, joins, and analy
 - Excel / CSV datasets  
 
 
-*This repository reflects my journey of building analytical thinking and visualization skills through Tableau.*
+
