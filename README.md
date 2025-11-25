@@ -1,5 +1,5 @@
 # Tableau Public Learning with Project 
-heehheheheheheheshi tk hunc ahun asfdgfdsssdfgf
+
 This repository contains my Tableau works — including basics, joins, and analytical projects created during my learning and exploration of data visualization.
 
 ## 📁 Structure
